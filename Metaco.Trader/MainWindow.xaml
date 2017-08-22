@@ -11,8 +11,7 @@
         xmlns:local="clr-namespace:Metaco.Trader"
         Title="Metaco Trader"
         Caption="{x:Static local:App.Caption}"                     
-                     >
-    <Grid x:Name="root">
+        <Grid x:Name="root">
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
             <RowDefinition Height="auto"></RowDefinition>
